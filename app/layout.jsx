@@ -2,7 +2,7 @@ import '@styles/globals.css';
 
 export const metadata = {
     title: 'Next Project',
-    description: 'Building a project using Next framework'
+    description: 'Building a project using Nextjs framework'
 };
 
 const RootLayout = ({children}) => {
