@@ -1,8 +1,8 @@
 const Home = () => {
     return (
-        <div>
-            <div>Home</div>
-        </div>
+        <section className="w-full flex-center flex-col">
+
+        </section>
     );
 };
 
